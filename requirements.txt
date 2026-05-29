@@ -1,1 +1,1 @@
-redshift-connector==2.1.4
+redshift-connector==2.1.14
